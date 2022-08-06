@@ -1,3 +1,3 @@
 # Spotify-Analysis
 
-Analysing rating of the songs.
+Analysing rating of the songs using visualization tools.
