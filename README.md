@@ -1,7 +1,7 @@
-## Spotify Top 50 Songs Analysis
+# Spotify Top 50 Songs Analysis
 This project explores the characteristics of the top 50 most-streamed songs on Spotify. Using Python and various data visualization libraries, this analysis uncovers patterns in musical features like popularity, danceability, and energy to understand what makes a hit song.
 
-# 📊 Project Overview
+## 📊 Project Overview
 The core of this project is a Exploratory Data Analysis (EDA) on Spotify's top tracks. The goal is to visualize the relationship between different audio features and song ratings to identify trends in the music industry.
 
 Key Objectives
@@ -11,7 +11,7 @@ Feature Correlation: Exploring how attributes like Beats Per Minute (BPM), Liven
 
 Data Visualization: Creating clear, insightful charts to represent song distributions and ratings.
 
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 Language: Python
 
 Libraries: * Pandas (Data Cleaning and Manipulation)
@@ -22,14 +22,14 @@ NumPy (Numerical Processing)
 
 Environment: Jupyter Notebook
 
-# 📂 Repository Contents
+## 📂 Repository Contents
 Spotify_50_song_analysis.ipynb: Detailed analysis focusing specifically on the top 50 tracks.
 
 spotify-music-analysis (2).ipynb: Comprehensive music analysis covering broader visualization tools.
 
 top50.csv & data (1).csv: The datasets containing audio features for the analyzed tracks.
 
-# 📈 Key Insights Explored
+## 📈 Key Insights Explored
 Genre Distribution: Which genres dominate the charts?
 
 Audio Attributes: Are high-energy songs more likely to be in the top 10?
@@ -38,7 +38,7 @@ Correlation Heatmaps: Visualizing the relationship between valence (positivity) 
 
 Artist Performance: Identifying which artists have multiple entries in the top rankings.
 
-#  ⚙️ Setup and Usage
+##  ⚙️ Setup and Usage
 Clone the repository:
 
 Bash
